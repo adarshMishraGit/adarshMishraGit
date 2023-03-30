@@ -1,6 +1,6 @@
 # I am *Adarsh Msihra*
 # 💫 About Me:
-A dedicated, reliable, and solution-driven individual seeking an opportunity as a Technical Support Engineer.<br>Highly passionate about helping businesses strengthen Customer Relationships by identifying prospects. <br>An articulate and quick-thinking young individual with a natural flair to communicate and build relationships. <br>Ability to translate business requirements into technical solutions.
+A dedicated, reliable, and solution-driven individual seeking an opportunity as a Technical Support Engineer.<br>An articulate and quick-thinking young individual with a natural flair to communicate and build relationships. <br>Ability to translate business requirements into technical solutions.
 
 
 ## 🌐 Socials:
