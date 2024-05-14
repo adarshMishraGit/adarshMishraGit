@@ -1,7 +1,6 @@
 # I am *Adarsh Msihra*
 # 💫 About Me:
-A dedicated, reliable, and solution-driven individual seeking an opportunity as a Software Developer.<br>An articulate and quick-thinking young individual with a natural flair to communicate and build relationships. <br>Ability to translate business requirements into technical solutions.
-
+An articulate and quick-thinking young individual with a natural flair to communicate and build relationships.</br>A process-driven professional, proficient in enhancing compliance, optimizing workflows, and enhancing overall output, and customer satisfaction to all time bests.</br>Looking for an exciting opportunity to work as a Business Development Associate that promotes long-term learning and growth alongside the organization.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-mishra-40a47723b) 
