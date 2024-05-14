@@ -1,4 +1,4 @@
-# I am *Adarsh Msihra*
+# I am *Adarsh Mishra*
 # 💫 About Me:
 A dedicated, reliable, and solution-driven individual seeking an opportunity as a Software Developer.</br>An articulate and quick-thinking young individual with a natural flair to communicate and build relationships.</br>Ability to translate business requirements into technical solutions.
 
